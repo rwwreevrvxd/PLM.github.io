@@ -66,3 +66,13 @@ span {
 .hire:hover {
   background: #000;
 }
+
+}
+
+    /* --- Asegura que los textos y contenedores se adapten --- */
+    main, section, div, article {
+      width: 100%;
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+  </style>
